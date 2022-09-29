@@ -16,4 +16,4 @@ int wildcmp(char *s1, char *s2);
 void check(char *s, int start, int end, int *flag);
 int is_prime(int n, int start);
 
-#endif /*MAIN_H*/
+#endif
